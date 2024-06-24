@@ -1,3 +1,7 @@
 streamlit
 opencv-python-headless
+<<<<<<< HEAD
 hugchat
+=======
+hugchat
+>>>>>>> cae8c36e19544410b33595b7356a18862f165a68
